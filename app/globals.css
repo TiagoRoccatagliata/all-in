@@ -1540,6 +1540,63 @@ body {
   box-shadow: 0 10px 30px -5px rgb(0 0 0 / 0.2);
 }
 
+/* Module page specific styles */
+.text-gold {
+  color: var(--gold);
+}
+
+.text-foreground {
+  color: var(--foreground);
+}
+
+.bg-gold {
+  background-color: var(--gold);
+}
+
+.text-slate-400 {
+  color: #94a3b8;
+}
+
+.text-slate-600 {
+  color: #475569;
+}
+
+.bg-slate-50 {
+  background-color: #f8fafc;
+}
+
+.bg-slate-200 {
+  background-color: #e2e8f0;
+}
+
+.bg-slate-300 {
+  background-color: #cbd5e1;
+}
+
+.border-slate-200 {
+  border-color: #e2e8f0;
+}
+
+.text-amber-700 {
+  color: #b45309;
+}
+
+.text-amber-800 {
+  color: #92400e;
+}
+
+.text-amber-900 {
+  color: #78350f;
+}
+
+.bg-amber-50 {
+  background-color: #fffbeb;
+}
+
+.border-amber-200 {
+  border-color: #fde68a;
+}
+
 /* Auth form styles */
 .auth-card {
   background: var(--card-bg);

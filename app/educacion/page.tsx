@@ -147,7 +147,7 @@ export default function EducacionPage() {
               {/* CTA */}
               <div className="education-level-footer">
                 {level.badge === "free" ? (
-                  <Link href="#" className="btn-primary btn-large">
+                  <Link href="/educacion/nivel-1/modulo-1" className="btn-primary btn-large">
                     Comenzar nivel gratuito
                   </Link>
                 ) : (
